@@ -29,4 +29,5 @@ Podcast: Episódio explorando mitos sobre treinos e nutrição.
 Vídeo: Conversa entre dois avatares discutindo o conceito de "Fake Natty" com humor e ironia.
 
 💭 <b>Reflexão</b>
+
 Este projeto me fez refletir sobre como a linha entre o natural e o artificial se torna cada vez mais tênue. Criar algo "natty" com IA é um desafio, pois, mesmo sendo tudo gerado artificialmente, buscamos um nível de perfeição que imita a realidade.
